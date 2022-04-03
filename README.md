@@ -1,3 +1,8 @@
+NOTE, THIS PROJECT IS LEGACY. IT IS VERY OLD AND DOES NOT REPRESENT ASTERO'S CURRENT SKILLS PROPERLY.
+Initial Repository on Gitlab: https://gitlab.com/Aster0/lotterypool-reborn
+
+
+
 <div align="center">
 ![Image of logo](https://media.discordapp.net/attachments/541972422828621834/565600458689871875/LotteryLP.png)
 
